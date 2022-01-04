@@ -1,0 +1,15 @@
+C:\Users\zarri\source\repos\My_Amlak\My_Amlak.Application\bin\Debug\net5.0\My_Amlak.Application.deps.json
+C:\Users\zarri\source\repos\My_Amlak\My_Amlak.Application\bin\Debug\net5.0\My_Amlak.Application.dll
+C:\Users\zarri\source\repos\My_Amlak\My_Amlak.Application\bin\Debug\net5.0\ref\My_Amlak.Application.dll
+C:\Users\zarri\source\repos\My_Amlak\My_Amlak.Application\bin\Debug\net5.0\My_Amlak.Application.pdb
+C:\Users\zarri\source\repos\My_Amlak\My_Amlak.Application\bin\Debug\net5.0\My_Amlak.Domain.dll
+C:\Users\zarri\source\repos\My_Amlak\My_Amlak.Application\bin\Debug\net5.0\My_Amlak.Domain.pdb
+C:\Users\zarri\source\repos\My_Amlak\My_Amlak.Application\obj\Debug\net5.0\My_Amlak.Application.csproj.AssemblyReference.cache
+C:\Users\zarri\source\repos\My_Amlak\My_Amlak.Application\obj\Debug\net5.0\My_Amlak.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zarri\source\repos\My_Amlak\My_Amlak.Application\obj\Debug\net5.0\My_Amlak.Application.AssemblyInfoInputs.cache
+C:\Users\zarri\source\repos\My_Amlak\My_Amlak.Application\obj\Debug\net5.0\My_Amlak.Application.AssemblyInfo.cs
+C:\Users\zarri\source\repos\My_Amlak\My_Amlak.Application\obj\Debug\net5.0\My_Amlak.Application.csproj.CoreCompileInputs.cache
+C:\Users\zarri\source\repos\My_Amlak\My_Amlak.Application\obj\Debug\net5.0\My_Amlak.Application.csproj.CopyComplete
+C:\Users\zarri\source\repos\My_Amlak\My_Amlak.Application\obj\Debug\net5.0\My_Amlak.Application.dll
+C:\Users\zarri\source\repos\My_Amlak\My_Amlak.Application\obj\Debug\net5.0\ref\My_Amlak.Application.dll
+C:\Users\zarri\source\repos\My_Amlak\My_Amlak.Application\obj\Debug\net5.0\My_Amlak.Application.pdb

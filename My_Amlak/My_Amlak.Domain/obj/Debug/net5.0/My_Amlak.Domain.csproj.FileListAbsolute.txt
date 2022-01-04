@@ -1,0 +1,12 @@
+C:\Users\zarri\source\repos\My_Amlak\My_Amlak.Domain\bin\Debug\net5.0\My_Amlak.Domain.deps.json
+C:\Users\zarri\source\repos\My_Amlak\My_Amlak.Domain\bin\Debug\net5.0\My_Amlak.Domain.dll
+C:\Users\zarri\source\repos\My_Amlak\My_Amlak.Domain\bin\Debug\net5.0\ref\My_Amlak.Domain.dll
+C:\Users\zarri\source\repos\My_Amlak\My_Amlak.Domain\bin\Debug\net5.0\My_Amlak.Domain.pdb
+C:\Users\zarri\source\repos\My_Amlak\My_Amlak.Domain\obj\Debug\net5.0\My_Amlak.Domain.csproj.AssemblyReference.cache
+C:\Users\zarri\source\repos\My_Amlak\My_Amlak.Domain\obj\Debug\net5.0\My_Amlak.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zarri\source\repos\My_Amlak\My_Amlak.Domain\obj\Debug\net5.0\My_Amlak.Domain.AssemblyInfoInputs.cache
+C:\Users\zarri\source\repos\My_Amlak\My_Amlak.Domain\obj\Debug\net5.0\My_Amlak.Domain.AssemblyInfo.cs
+C:\Users\zarri\source\repos\My_Amlak\My_Amlak.Domain\obj\Debug\net5.0\My_Amlak.Domain.csproj.CoreCompileInputs.cache
+C:\Users\zarri\source\repos\My_Amlak\My_Amlak.Domain\obj\Debug\net5.0\My_Amlak.Domain.dll
+C:\Users\zarri\source\repos\My_Amlak\My_Amlak.Domain\obj\Debug\net5.0\ref\My_Amlak.Domain.dll
+C:\Users\zarri\source\repos\My_Amlak\My_Amlak.Domain\obj\Debug\net5.0\My_Amlak.Domain.pdb
