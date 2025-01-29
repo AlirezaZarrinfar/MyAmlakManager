@@ -1,20 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\zarri\\source\\repos\\My_Amlak\\My_Amlak.Persistance\\My_Amlak.Persistance.csproj": {}
+    "E:\\GitHub\\MyAmlakManager\\My_Amlak\\My_Amlak.Persistance\\My_Amlak.Persistance.csproj": {}
   },
   "projects": {
-    "C:\\Users\\zarri\\source\\repos\\My_Amlak\\My_Amlak.Application\\My_Amlak.Application.csproj": {
+    "E:\\GitHub\\MyAmlakManager\\My_Amlak\\My_Amlak.Application\\My_Amlak.Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\zarri\\source\\repos\\My_Amlak\\My_Amlak.Application\\My_Amlak.Application.csproj",
+        "projectUniqueName": "E:\\GitHub\\MyAmlakManager\\My_Amlak\\My_Amlak.Application\\My_Amlak.Application.csproj",
         "projectName": "My_Amlak.Application",
-        "projectPath": "C:\\Users\\zarri\\source\\repos\\My_Amlak\\My_Amlak.Application\\My_Amlak.Application.csproj",
-        "packagesPath": "C:\\Users\\zarri\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\zarri\\source\\repos\\My_Amlak\\My_Amlak.Application\\obj\\",
+        "projectPath": "E:\\GitHub\\MyAmlakManager\\My_Amlak\\My_Amlak.Application\\My_Amlak.Application.csproj",
+        "packagesPath": "C:\\Users\\Alireza\\.nuget\\packages\\",
+        "outputPath": "E:\\GitHub\\MyAmlakManager\\My_Amlak\\My_Amlak.Application\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
         "configFilePaths": [
-          "C:\\Users\\zarri\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Alireza\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -22,14 +25,16 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "http://172.32.1.50:8081/repository/nuget-hosted/": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "C:\\Users\\zarri\\source\\repos\\My_Amlak\\My_Amlak.Domain\\My_Amlak.Domain.csproj": {
-                "projectPath": "C:\\Users\\zarri\\source\\repos\\My_Amlak\\My_Amlak.Domain\\My_Amlak.Domain.csproj"
+              "E:\\GitHub\\MyAmlakManager\\My_Amlak\\My_Amlak.Domain\\My_Amlak.Domain.csproj": {
+                "projectPath": "E:\\GitHub\\MyAmlakManager\\My_Amlak\\My_Amlak.Domain\\My_Amlak.Domain.csproj"
               }
             }
           }
@@ -38,6 +43,11 @@
           "warnAsError": [
             "NU1605"
           ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -55,30 +65,48 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[5.0.0, 5.0.0]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[5.0.0, 5.0.0]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[5.0.0, 5.0.0]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.303\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\zarri\\source\\repos\\My_Amlak\\My_Amlak.Domain\\My_Amlak.Domain.csproj": {
+    "E:\\GitHub\\MyAmlakManager\\My_Amlak\\My_Amlak.Domain\\My_Amlak.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\zarri\\source\\repos\\My_Amlak\\My_Amlak.Domain\\My_Amlak.Domain.csproj",
+        "projectUniqueName": "E:\\GitHub\\MyAmlakManager\\My_Amlak\\My_Amlak.Domain\\My_Amlak.Domain.csproj",
         "projectName": "My_Amlak.Domain",
-        "projectPath": "C:\\Users\\zarri\\source\\repos\\My_Amlak\\My_Amlak.Domain\\My_Amlak.Domain.csproj",
-        "packagesPath": "C:\\Users\\zarri\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\zarri\\source\\repos\\My_Amlak\\My_Amlak.Domain\\obj\\",
+        "projectPath": "E:\\GitHub\\MyAmlakManager\\My_Amlak\\My_Amlak.Domain\\My_Amlak.Domain.csproj",
+        "packagesPath": "C:\\Users\\Alireza\\.nuget\\packages\\",
+        "outputPath": "E:\\GitHub\\MyAmlakManager\\My_Amlak\\My_Amlak.Domain\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
         "configFilePaths": [
-          "C:\\Users\\zarri\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Alireza\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -86,6 +114,8 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "http://172.32.1.50:8081/repository/nuget-hosted/": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -98,6 +128,11 @@
           "warnAsError": [
             "NU1605"
           ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -109,30 +144,48 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[5.0.0, 5.0.0]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[5.0.0, 5.0.0]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[5.0.0, 5.0.0]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.303\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\zarri\\source\\repos\\My_Amlak\\My_Amlak.Persistance\\My_Amlak.Persistance.csproj": {
+    "E:\\GitHub\\MyAmlakManager\\My_Amlak\\My_Amlak.Persistance\\My_Amlak.Persistance.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\zarri\\source\\repos\\My_Amlak\\My_Amlak.Persistance\\My_Amlak.Persistance.csproj",
+        "projectUniqueName": "E:\\GitHub\\MyAmlakManager\\My_Amlak\\My_Amlak.Persistance\\My_Amlak.Persistance.csproj",
         "projectName": "My_Amlak.Persistance",
-        "projectPath": "C:\\Users\\zarri\\source\\repos\\My_Amlak\\My_Amlak.Persistance\\My_Amlak.Persistance.csproj",
-        "packagesPath": "C:\\Users\\zarri\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\zarri\\source\\repos\\My_Amlak\\My_Amlak.Persistance\\obj\\",
+        "projectPath": "E:\\GitHub\\MyAmlakManager\\My_Amlak\\My_Amlak.Persistance\\My_Amlak.Persistance.csproj",
+        "packagesPath": "C:\\Users\\Alireza\\.nuget\\packages\\",
+        "outputPath": "E:\\GitHub\\MyAmlakManager\\My_Amlak\\My_Amlak.Persistance\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
         "configFilePaths": [
-          "C:\\Users\\zarri\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Alireza\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -140,17 +193,19 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "http://172.32.1.50:8081/repository/nuget-hosted/": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "C:\\Users\\zarri\\source\\repos\\My_Amlak\\My_Amlak.Application\\My_Amlak.Application.csproj": {
-                "projectPath": "C:\\Users\\zarri\\source\\repos\\My_Amlak\\My_Amlak.Application\\My_Amlak.Application.csproj"
+              "E:\\GitHub\\MyAmlakManager\\My_Amlak\\My_Amlak.Application\\My_Amlak.Application.csproj": {
+                "projectPath": "E:\\GitHub\\MyAmlakManager\\My_Amlak\\My_Amlak.Application\\My_Amlak.Application.csproj"
               },
-              "C:\\Users\\zarri\\source\\repos\\My_Amlak\\My_Amlak.Domain\\My_Amlak.Domain.csproj": {
-                "projectPath": "C:\\Users\\zarri\\source\\repos\\My_Amlak\\My_Amlak.Domain\\My_Amlak.Domain.csproj"
+              "E:\\GitHub\\MyAmlakManager\\My_Amlak\\My_Amlak.Domain\\My_Amlak.Domain.csproj": {
+                "projectPath": "E:\\GitHub\\MyAmlakManager\\My_Amlak\\My_Amlak.Domain\\My_Amlak.Domain.csproj"
               }
             }
           }
@@ -159,6 +214,11 @@
           "warnAsError": [
             "NU1605"
           ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -186,16 +246,31 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[5.0.0, 5.0.0]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[5.0.0, 5.0.0]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[5.0.0, 5.0.0]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.303\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400\\RuntimeIdentifierGraph.json"
         }
       }
     }

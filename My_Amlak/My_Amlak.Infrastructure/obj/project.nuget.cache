@@ -1,8 +1,19 @@
 {
   "version": 2,
-  "dgSpecHash": "3x1kfTZVjOvxDa4l8AMbk4gMZF6QbAiwqT2x3hc5qKnm1vU+LENhGbILALpO69QY0RDhFT3EHaeF+I7XhMKTfw==",
+  "dgSpecHash": "75W5GrhePJ8=",
   "success": true,
-  "projectFilePath": "C:\\Users\\zarri\\source\\repos\\My_Amlak\\My_Amlak.Infrastructure\\My_Amlak.Infrastructure.csproj",
-  "expectedPackageFiles": [],
-  "logs": []
+  "projectFilePath": "E:\\GitHub\\MyAmlakManager\\My_Amlak\\My_Amlak.Infrastructure\\My_Amlak.Infrastructure.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Alireza\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\Alireza\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\Alireza\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1803",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "You are running the 'restore' operation with an 'HTTP' source, 'http://172.32.1.50:8081/repository/nuget-hosted/'. Non-HTTPS access will be removed in a future version. Consider migrating to an 'HTTPS' source."
+    }
+  ]
 }

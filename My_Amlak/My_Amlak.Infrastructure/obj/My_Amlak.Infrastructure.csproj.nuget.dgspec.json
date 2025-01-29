@@ -1,20 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\zarri\\source\\repos\\My_Amlak\\My_Amlak.Infrastructure\\My_Amlak.Infrastructure.csproj": {}
+    "E:\\GitHub\\MyAmlakManager\\My_Amlak\\My_Amlak.Infrastructure\\My_Amlak.Infrastructure.csproj": {}
   },
   "projects": {
-    "C:\\Users\\zarri\\source\\repos\\My_Amlak\\My_Amlak.Infrastructure\\My_Amlak.Infrastructure.csproj": {
+    "E:\\GitHub\\MyAmlakManager\\My_Amlak\\My_Amlak.Infrastructure\\My_Amlak.Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\zarri\\source\\repos\\My_Amlak\\My_Amlak.Infrastructure\\My_Amlak.Infrastructure.csproj",
+        "projectUniqueName": "E:\\GitHub\\MyAmlakManager\\My_Amlak\\My_Amlak.Infrastructure\\My_Amlak.Infrastructure.csproj",
         "projectName": "My_Amlak.Infrastructure",
-        "projectPath": "C:\\Users\\zarri\\source\\repos\\My_Amlak\\My_Amlak.Infrastructure\\My_Amlak.Infrastructure.csproj",
-        "packagesPath": "C:\\Users\\zarri\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\zarri\\source\\repos\\My_Amlak\\My_Amlak.Infrastructure\\obj\\",
+        "projectPath": "E:\\GitHub\\MyAmlakManager\\My_Amlak\\My_Amlak.Infrastructure\\My_Amlak.Infrastructure.csproj",
+        "packagesPath": "C:\\Users\\Alireza\\.nuget\\packages\\",
+        "outputPath": "E:\\GitHub\\MyAmlakManager\\My_Amlak\\My_Amlak.Infrastructure\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
         "configFilePaths": [
-          "C:\\Users\\zarri\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Alireza\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -22,6 +25,8 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "http://172.32.1.50:8081/repository/nuget-hosted/": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -34,6 +39,11 @@
           "warnAsError": [
             "NU1605"
           ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -45,16 +55,31 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[5.0.0, 5.0.0]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[5.0.0, 5.0.0]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[5.0.0, 5.0.0]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.303\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400\\RuntimeIdentifierGraph.json"
         }
       }
     }
